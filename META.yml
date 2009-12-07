@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-CPANAuthors-CPANTS-FiveOrMore
-version:            2009112401
+version:            2009120701
 abstract:           CPAN Authors with five or more dists
 author:
     - Abigail <cpan@abigail.be>
