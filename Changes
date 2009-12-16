@@ -1,3 +1,7 @@
+Version 2009121601
++ Propagate requirements in Makefile.PL
++ New author(s)
+
 Version 2009121401
 + Require Test::More 0.88.
 

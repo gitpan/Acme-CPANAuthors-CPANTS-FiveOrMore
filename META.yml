@@ -1,15 +1,23 @@
 --- #YAML:1.0
 name:               Acme-CPANAuthors-CPANTS-FiveOrMore
-version:            2009121401
+version:            2009121601
 abstract:           CPAN Authors with five or more dists
 author:
     - Abigail <cpan@abigail.be>
 license:            mit
 distribution_type:  module
 configure_requires:
+    Acme::CPANAuthors:    0
     ExtUtils::MakeMaker:  0
+    strict:               0
+    Test::More:           0.88
+    warnings:             0
 build_requires:
+    Acme::CPANAuthors:    0
     ExtUtils::MakeMaker:  0
+    strict:               0
+    Test::More:           0.88
+    warnings:             0
 requires:
     Acme::CPANAuthors::Register:  0
     perl:                 5.006
